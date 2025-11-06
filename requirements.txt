@@ -1,0 +1,6 @@
+# Requirements file for the chatbot service
+# Add dependencies as needed during implementation
+
+# Core dependencies (examples - add as needed)
+# python-dateutil>=2.8.0
+# typing-extensions>=4.0.0
