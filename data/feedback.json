@@ -1,0 +1,51 @@
+[
+  {
+    "feedback_id": "FB-00001",
+    "customer_name": "John Doe",
+    "rating": 5,
+    "comments": "Excellent service! Very helpful and responsive.",
+    "created_at": "2025-11-14 01:40:59"
+  },
+  {
+    "feedback_id": "FB-00002",
+    "customer_name": "Jane Smith",
+    "rating": 3,
+    "comments": "Service was okay, could be better.",
+    "created_at": "2025-11-14 01:40:59"
+  },
+  {
+    "feedback_id": "FB-00003",
+    "customer_name": "Bob Wilson",
+    "rating": 1,
+    "comments": "Very disappointed with the service.",
+    "created_at": "2025-11-14 01:40:59"
+  },
+  {
+    "feedback_id": "FB-00004",
+    "customer_name": "Alice Brown",
+    "rating": 4,
+    "comments": "No comments provided",
+    "created_at": "2025-11-14 01:40:59"
+  },
+  {
+    "feedback_id": "FB-00005",
+    "customer_name": "Frank Miller",
+    "rating": 3,
+    "comments": "Just wanted to leave some comments",
+    "created_at": "2025-11-14 01:40:59"
+  },
+  {
+    "feedback_id": "FB-00006",
+    "customer_name": "Test User",
+    "rating": 5,
+    "comments": "Great service!",
+    "created_at": "2025-11-14 01:49:14"
+  },
+  {
+    "feedback_id": "FB-00007",
+    "customer_name": "mamba",
+    "rating": 4,
+    "comments": "No comments provided",
+    "created_at": "2025-11-14 01:51:19"
+  }
+]
