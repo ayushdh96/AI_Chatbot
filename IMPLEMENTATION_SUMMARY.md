@@ -258,7 +258,7 @@ python test_all.py --quick
 File: `src/.env`
 
 ```properties
-OZWELL_API_KEY=BHSK-sandbox-GtiUQQxqvKPgnGCYlWmV0vOnD6eShU9IwLYCFn1e
+OZWELL_API_KEY=
 ```
 
 ### Dependencies
