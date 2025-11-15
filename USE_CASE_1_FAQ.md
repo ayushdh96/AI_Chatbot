@@ -25,7 +25,7 @@ pip install requests python-dotenv
 ### 2. Configure Ozwell AI API Key
 Make sure your `.env` file in the `src/` directory contains your Ozwell AI API key:
 ```
-OZWELL_API_KEY=BHSK-sandbox-GtiUQQxqvKPgnGCYlWmV0vOnD6eShU9IwLYCFn1e
+OZWELL_API_KEY=
 ```
 
 ### 3. Run the Chatbot
